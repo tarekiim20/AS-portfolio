@@ -1,0 +1,142 @@
+section , html , body {
+    background-color: #88AB8E;
+}
+
+.nav, .nav-link, .a {
+    color: #F2F1EB; 
+    font-size: 1rem;
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+
+.nv1 {
+    background-color: #2AADA9 ;
+    background-image: linear-gradient(to right, #2AADA9,#EEE7DA);
+    opacity:inherit; 
+    border-radius: 10%;
+    width: 100px;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Playfair Display', serif;
+    color: #F2F1EB;
+}
+
+
+.text-body-secondary {
+    font-size: 50%;
+}
+
+@media (min-width:600px) {
+    .fs {
+        letter-spacing: 10px;
+    }
+    
+    .wd {
+        letter-spacing: -3px;
+    }
+}
+
+.but1 {
+    font-family: 'PT Sans Narrow', sans-serif;
+    background-color: #2AADA9;
+    background-image: linear-gradient(to right, #2AADA9,#EEE7DA);
+    width: 250px;
+    font-size: 20px;
+}
+
+.dot{
+    font-size: 5rem;
+    color: #F2F1EB;
+}
+
+h2 {
+    font-family: 'Playfair Display', serif;
+    color: #F2F1EB;
+} 
+
+
+.lead {
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 20px;
+}
+
+.btn-outline-dark{
+    font-family: 'PT Sans Narrow', sans-serif;
+    width: 250px;
+    font-size: 20px;
+}
+
+.nv2 {
+    color: #F2F1EB;
+    font-size: 50px;
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+
+.h22 {
+    text-align: center;
+}
+
+.pj1 {
+    color: #F2F1EB;
+    font-family: 'Playfair Display', serif; 
+}
+
+.pj2 {
+    color: #EEE7DA;
+}
+
+.icon-link {
+    color: #EEE7DA;
+}
+
+.crd {
+    font-family: 'Playfair Display', serif;
+    color: #EEE7DA;
+    font-size: 2.5rem;
+}
+
+.cntc {
+    background-color: #AFC8AD
+}
+
+.icon-square {
+    width: 3rem;
+    height: 3rem;
+    border-radius: 0.75rem;
+}
+
+
+.mob {
+    color: #EEE7DA;
+    font-size: 2.25rem;
+    font-family: 'PT Sans Narrow', sans-serif
+}
+
+form {
+    background-color: #88AB8E;
+}
+
+.drp {
+    color: black;
+    font-size: 4.5rem;
+    font-family: 'PT Sans Narrow', sans-serif
+}
+
+.cntc1 {
+    color: black;
+    font-size: 3rem;
+    font-family: 'PT Sans Narrow', sans-serif
+}
+
+
+.mob {
+    color: black;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 2rem;
+}
+
+.roundedd {
+    border-top-left-radius: 20%;
+    border-top-right-radius: 20%;
+}
